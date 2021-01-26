@@ -1,0 +1,75 @@
+-- Use the HR schema in MYSQL database to answer these queries
+
+1. Display details of jobs where the minimum salary is greater than 10000
+
+2. Display the first name and join date of the employees who joined between 2002  and 2005
+
+3 Display first name and join date of the employees who is either IT Programmer or SalesMan
+
+4. Display employees who joined after Ist January 2008
+
+5. Display details of employee with ID 150 or 160 
+
+6. Display first name, salary, commission pet, and hire date for employees with salary less
+   than 10000
+   
+7 Display job Title the difference between minimum and maximum salaries max salary in the range 10000 to 20000.
+
+8. Display first name, salary, and round the salary to thousands
+
+9. Display details of jobs in the descending order of the title
+
+10. Display employees where the first name or last name starts with S.
+
+11. Display employees who joined in the month of May
+
+12. Display details of the employees where commission percentage is mull and range 5000 to 10000 and department is 30
+
+13 Display first name and date of first salary of the employees
+
+14. Display first name and experience of the employees.
+
+15. Display first name of employees who joined in 2001
+
+16. Display first name and last name after converting the first letter of cach name to upper case and the rest to lower case 
+
+17 Display the first word in job title.
+
+18. Display the length of first name for employees where last name contain character 'b' after  3rd position
+
+19. Display first name in upper case and email address in lower case for employees where the first name and email address are same irrespective of the case.
+
+20. Display employees who jomed in the current year
+
+21. Display the number of days between system date and Ist January 2011
+
+22 Display how many employees joined in each month of the current year.
+
+23. Display manager ID and number of employees managed by the manager 
+
+24. Display employee ID and the date on which he ended his previous job. 
+
+25. Display number of employees joined after 15th of the month.
+
+26. Display the country ID and number of cities we have in the country. 
+
+27. Display average salary of employees in each department who have commission
+percentage.
+
+28. Display job ID number of employees, sum of salary, and difference between salary and lowest salary of the employees of the job
+
+29. Display job ID for jobs with average salary more than 10000.
+
+30. Display years in which more than 10 employees joined
+
+highest
+
+31. Display departments in which more than five employees have commission percentage 
+
+32 Display employee ID for employees who did more than one job in the past
+
+33. Display job ID of jobs that were done by more than 3 employees for more than 100 days.
+
+34 Display department ID. year, and Number of employees joined
+
+35 Display departments where any manager is managing more than 5 employes:
